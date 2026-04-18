@@ -1,1 +1,1 @@
-# mysql-tunning-simrs
+# mysql-tuning-simrs
